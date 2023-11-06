@@ -1,1 +1,1 @@
-# Java-Snake-Game
+# Java_Game
